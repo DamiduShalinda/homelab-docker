@@ -12,7 +12,7 @@ Using Docker Compose is a three-step process:
 *Documentation is from [docker-compose](https://github.com/docker/compose)*
 
 
-## folder structure in my ubuntu 22.04 server
+## Folder structure in my ubuntu 22.04 server
 
 ```
 └── damidu
