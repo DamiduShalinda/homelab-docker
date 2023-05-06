@@ -1,4 +1,4 @@
-# homelab-docker
+# Homelab-docker
 my homelab docker-compose files
 
 ## Quick Start
